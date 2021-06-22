@@ -1,0 +1,46 @@
+p{
+    color:red;
+}
+/*{
+    border:solid;
+}*/
+.Projects{
+    background-color:lawngreen;
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+   justify-content: flex-end;
+   margin: 20px;
+}
+.trex{
+    background-color: lightgray;
+   display:flex;
+    justify-content: baseline;
+    width: 500px;
+}
+.virus{
+    background-color: lime;
+    display:flex;
+    width: 500px;
+}
+.fruit{
+    background-color: cyan;
+    display:flex;
+    width: 500px;
+}
+.Quiz{
+    background-color: gold;
+    display:flex;
+    width: 500px;
+}
+.socialMedia{
+    background-color: crimson;
+    display:flex;
+    justify-content: center;
+}
+.page{
+    background-color:lightcoral;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
